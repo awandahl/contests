@@ -13,3 +13,8 @@ DXlog: https://dxlog.net/sw/contestlist.php
 N1MM;  https://n1mmwp.hamdocs.com/manual-supported/contests-list/  
 not1mm: https://github.com/mbridak/not1mm/tree/master/not1mm/plugins  
 
+### SAC
+
+DXlog:  https://dxlog.net/sw/files/download/contest/SAC.txt
+N1MM:  
+not1mm:  
